@@ -1,0 +1,15 @@
+h1
+{
+    color: red;
+}
+body{
+    background-color: burlywood;
+}
+#main_page{
+    width: 800px;
+    margin: 0 auto;
+    background-color: brown;
+    text-align: center;
+    align-content: center;
+
+}
